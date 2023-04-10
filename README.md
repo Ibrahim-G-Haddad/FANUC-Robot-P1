@@ -15,67 +15,76 @@
          
 # PROJECT DESCRIPTION
 ## INTRODUCTION
-Insert a brief overview of the project here. This section should provide context for what the project is about, what problem it aims to solve, and what value it provides.
+This project involves a FANUC robot program written in the KAREL programming language, controlling the robot arm movements and vacuum functionality for a pick and place task. The program guides the robot arm to perform a 2x2 grid pick and place operation with a vacuum gripper, moving objects from one location to another.
 
 ### Goals and Objectives
-List the project's goals and objectives, and explain how they align with the overall mission and vision of the project.
+The goal of the project is to develop a reliable and efficient robotic solution for the pick and place task, improving productivity and reducing labor costs in manufacturing and automation tasks.
 
 ### Key Features
-Highlight the key features of the project, and describe how they contribute to its success.
+The key features of the project include:
+
+* Robot arm movements and vacuum functionality control.
+* 2x2 grid pick and place operation with a vacuum gripper.
+* Custom subroutines for turning vacuum on/off and updating positions and offsets.
 
 ## PROJECT TEAM
 ### Customer Information
-Provide information about the customer who commissioned the project, including their background, industry, and goals.
+The customer who commissioned the project is a manufacturing company in need of an automated solution for their pick and place tasks, aiming to increase productivity and reduce labor costs.
 
 ### Developer Information
-For Developer: List the names and roles of the programmer(s) involved in the project, and provide a brief bio for each.
+The developer involved in the project is Ibrahim G. Haddad, who wrote the FANUC robot program in KAREL programming language.
 
 ## PROJECT PLAN
 ### Timeline
-Include a timeline of deliverables and deadlines for the project. This section should provide a clear roadmap of what work will be done and when, and it should be updated regularly to reflect the project's progress.
+The project plan includes a timeline of deliverables and deadlines for the project, outlining what work will be done and when. The timeline should be updated regularly to reflect the project's progress.
 
 ### Milestone
-List the key milestones of the project, and describe how they contribute to the project's overall success.
+The key milestones of the project include:
+
+* Successful development of the robot program.
+* Testing and debugging of the program.
+* Integration of the program with the FANUC robot system.
+* Deployment and implementation of the program in the manufacturing company's facility.
 
 ## HIGH LEVEL SYSTEM DESCRIPTION
 ### Architecture
-Provide a high-level description of the system's architecture, including its components, data flow, and key technologies.
+The system architecture includes the FANUC robot system and the KAREL programming language, which controls the robot arm movements and vacuum functionality. The program utilizes custom subroutines for turning vacuum on/off and updating positions and offsets.
 
 ### Functionality
-Explain how the system works, and describe its key features and functionalities.
+The program controls the robot arm movements and vacuum functionality for a 2x2 grid pick and place operation with a vacuum gripper. The program utilizes nested loops and custom subroutines to guide the robot across the grid.
 
 # TECHNICAL INFORMATION
 ## REQUIREMENTS 
-List the technical requirements for the project, including hardware, software, and programming languages.
+The technical requirements for the project include the FANUC robot system and the KAREL programming language.
 
 ## CHALLENGES
-Outline any technical challenges faced during the project, and describe how they were overcome.
+Potential technical challenges in the project could include debugging the program and integrating it with the FANUC robot system.
 
 ## PROGRAM SPECIFICATIONS
 ### Version
-Provide information about the current version of the program, including its release date and any new features or bug fixes.
+TBD.
 
 ### Dependencies
-List any libraries, packages, or dependencies required to run the program, and provide a brief description of each.
+TBD.
 
 ## TECHNICAL DOCUMENTATION
-Provide links to any relevant technical documentation, such as tutorials, user guides, API reference material, or code repository.
+All the documents needed can be acced using this link https://enginuityinc.sharepoint.com/:f:/s/AutomationDepartment/Er1ykHxPS8tBuWQ-DhE-KvYB8ATUHu2t2BhN_itdY03sFA?e=ok8t6Z.
 
 # PROJECT STATUS
 ## CURRENT STATUS
 ### Ongoing Development
-Detail the current status of the project, including any ongoing development, bugs, or known issues.
+The project is half way done, still need to integrate the camera and make the robot pick the cans automatically and stack them in a larger matrix. 
 
 ### Issues
-List any open issues that need to be addressed, and describe their status and priority.
+integrating the camera within the code needs a lot of debbuging.
 
 ## NEXT STEPS
 ### Upcoming Work
-Outline the next steps for the project, including any upcoming features or improvements.
+Upcoming work includes testing and debugging the program, integrating it with the FANUC robot system, and deploying it in the manufacturing company's facility.
 
 ### To-Do-List
 List any to-do items that need to be completed, and provide a timeline for when each will be done.
 
-![Workflow of adding an image](Workflow.png)  
+![Workflow of adding an image](/Images/Workflow.png)  
 
 
