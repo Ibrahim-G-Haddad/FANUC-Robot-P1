@@ -22,10 +22,10 @@ The goal of the project is to develop a reliable and efficient robotic solution 
 
 In pictures, the goal is to move the cans from position 1:
 
-![First position](/Images/first_position.png)
+![First position](/Images/first_position.jpg)
 To position 2:
 
-![Second position](/Images/second_position.png)  
+![Second position](/Images/second_position.jpg)  
 
 ### Key Features
 The key features of the project include:
