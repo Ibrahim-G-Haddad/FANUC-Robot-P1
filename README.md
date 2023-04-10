@@ -20,6 +20,11 @@ This project involves a FANUC robot program written in the KAREL programming lan
 ### Goals and Objectives
 The goal of the project is to develop a reliable and efficient robotic solution for the pick and place task, improving productivity and reducing labor costs in manufacturing and automation tasks.
 
+In pictures, the goal is to move the cans from position 1:
+![Firt position](/Images/first_position.png)
+To position 2:
+![Second position](/Images/second_position.png)  
+
 ### Key Features
 The key features of the project include:
 
@@ -83,8 +88,7 @@ integrating the camera within the code needs a lot of debbuging.
 Upcoming work includes testing and debugging the program, integrating it with the FANUC robot system, and deploying it in the manufacturing company's facility.
 
 ### To-Do-List
-List any to-do items that need to be completed, and provide a timeline for when each will be done.
+Modify the code.
 
-![Workflow of adding an image](/Images/Workflow.png)  
 
 
