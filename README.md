@@ -21,7 +21,7 @@ This project involves a FANUC robot program written in the KAREL programming lan
 The goal of the project is to develop a reliable and efficient robotic solution for the pick and place task, improving productivity and reducing labor costs in manufacturing and automation tasks.
 
 In pictures, the goal is to move the cans from position 1:
-![Firt position](/Images/first_position.png)
+![First position](/Images/first_position.png)
 To position 2:
 ![Second position](/Images/second_position.png)  
 
