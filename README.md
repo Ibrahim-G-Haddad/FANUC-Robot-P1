@@ -85,6 +85,6 @@ Upcoming work includes testing and debugging the program, integrating it with th
 ### To-Do-List
 List any to-do items that need to be completed, and provide a timeline for when each will be done.
 
-![Workflow of adding an image](/images/Workflow.png)  
+![Workflow of adding an image](/Images/Workflow.png)  
 
 
